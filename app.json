@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Campus Compass",
+    "slug": "campus-compass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1E3A8A"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
